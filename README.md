@@ -20,7 +20,7 @@ This is the source code for the MSc Project.
 ## Task Description
 This MSc project contains two subtasks.  
 
-**Subtask A** is a validation task. The purpose is to determine which of two similar natural language statements is against common sense.
+**Subtask A** is a Validation task. The purpose is to determine which of two similar natural language statements is against common sense.
 
 *Example:*  
 > Task: Which of the two statements is against common sense?  
