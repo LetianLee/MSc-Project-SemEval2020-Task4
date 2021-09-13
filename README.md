@@ -66,7 +66,6 @@ pip install jupyter==1.0.0
 pip install pandas==1.2.4
 pip install matplotlib==3.3.4
 pip install seaborn==0.11.1
-
 ```
 
 ### 2. Viewing and Running the Project Code
@@ -87,6 +86,8 @@ MSc Project (Commonsense Validation and Explanation in Natural Language Processi
 │       ├── Experiment Workflow.ipynb ---------------- This shows the experiment workflow and generates the result figures.
 │       ├── Experiment_Subtask_A.ipynb --------------- This is the experiment code for subtask A.
 │       └── Experiment_Subtask_B.ipynb --------------- This is the experiment code for subtask B.
+├── Other Files
+│   ├── Li-2214560.pdf ------------------------------- This is the project dissertation.
+│   └── Project Demonstration (updated).pdf ---------- This is the project demonstration slides.
 └── README.md
-
 ```
