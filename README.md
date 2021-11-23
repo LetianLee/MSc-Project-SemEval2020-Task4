@@ -1,11 +1,11 @@
 *Last updated on September 10, 2021.*
 
-# MSc Project (Commonsense Validation and Explanation in Natural Language Processing)
+# MSc Project: Commonsense Validation and Explanation in Natural Language Processing
 
 [<img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width="10%">](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   
 
-This is the source code for the MSc Project: Commonsense Validation and Explanation in Natural Language Processing.  
+This is the source code for the MSc Project: Commonsense Validation and Explanation in Natural Language Processing. The project is aiming to solve the first two subtasks in [*SemEval 2020 Task 4 - Commonsense Validation and Explanation (ComVE)*](https://competitions.codalab.org/competitions/21080).  
 
 
 
@@ -87,7 +87,6 @@ MSc Project (Commonsense Validation and Explanation in Natural Language Processi
 │       ├── Experiment_Subtask_A.ipynb --------------- This is the experiment code for subtask A.
 │       └── Experiment_Subtask_B.ipynb --------------- This is the experiment code for subtask B.
 ├── Other Files
-│   ├── Li-2214560.pdf ------------------------------- This is the project dissertation.
-│   └── Project Demonstration (updated).pdf ---------- This is the project demonstration slides.
+│   └── Project Demonstration (updated).pdf ---------- This is the project demonstration slide.
 └── README.md
 ```
