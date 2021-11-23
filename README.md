@@ -5,15 +5,15 @@
 [<img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width="10%">](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   
 
-This is the source code for the MSc Project: Commonsense Validation and Explanation in Natural Language Processing. The project is aiming to solve the first two subtasks in [*SemEval 2020 Task 4 - Commonsense Validation and Explanation (ComVE)*](https://competitions.codalab.org/competitions/21080).  
+This is the source code for the MSc Project: **Commonsense Validation and Explanation in Natural Language Processing**. The project is aiming to solve the first two subtasks in [*SemEval 2020 Task 4 - Commonsense Validation and Explanation (ComVE)*](https://competitions.codalab.org/competitions/21080).  
 
 
 
 ## Project Information
-* Title: Commonsense Validation and Explanation in Natural Language Processing<br>
-* Objective Task: SemEval 2020 Task 4 - Commonsense Validation and Explanation (ComVE)<br>
-* Supervisor: Dr Mark Lee<br>
-* Student: Letian Li (2214560)
+* **Title:** Commonsense Validation and Explanation in Natural Language Processing<br>
+* **Objective Task:** SemEval 2020 Task 4 - Commonsense Validation and Explanation (ComVE)<br>
+* **Supervisor:** Dr Mark Lee<br>
+* **Student:** Letian Li (2214560)
 
 
 
