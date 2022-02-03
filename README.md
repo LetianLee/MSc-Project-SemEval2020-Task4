@@ -86,7 +86,6 @@ MSc Project (Commonsense Validation and Explanation in Natural Language Processi
 │       ├── Experiment Workflow.ipynb ---------------- This shows the experiment workflow and generates the result figures.
 │       ├── Experiment_Subtask_A.ipynb --------------- This is the experiment code for subtask A.
 │       └── Experiment_Subtask_B.ipynb --------------- This is the experiment code for subtask B.
-├── Other Files
-│   └── Project Demonstration (updated).pdf ---------- This is the project demonstration slide.
+├── Project Demonstration (updated).pdf -------------- This is the project demonstration slide.
 └── README.md
 ```
