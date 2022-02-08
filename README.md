@@ -1,4 +1,4 @@
-*Last updated on September 10, 2021.*
+*The project code was completed on September 10, 2021.*
 
 # MSc Project: Commonsense Validation and Explanation in Natural Language Processing
 
@@ -89,3 +89,17 @@ MSc Project (Commonsense Validation and Explanation in Natural Language Processi
 ├── Project Demonstration (updated).pdf -------------- This is the project demonstration slide.
 └── README.md
 ```
+
+
+
+## Suggestion
+If you just want a quick look at how to solve the task, please see the implementation code:  
+> [**MSc-Project-SemEval2020-Task4/MSc Project/Best Implementation/Subtask_A.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Best%20Implementation/Subtask_A.ipynb)  
+> [**MSc-Project-SemEval2020-Task4/MSc Project/Best Implementation/Subtask_B.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Best%20Implementation/Subtask_B.ipynb)
+
+If you want to know how the project conducts experiments, please see the experiment code:  
+> [**MSc-Project-SemEval2020-Task4/MSc Project/Experiment/Experiment_Subtask_A.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Experiment/Experiment_Subtask_A.ipynb)  
+> [**MSc-Project-SemEval2020-Task4/MSc Project/Experiment/Experiment_Subtask_B.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Experiment/Experiment_Subtask_B.ipynb)
+
+If you want to take an overview of this project, please see the project demonstration slide:  
+> [**MSc-Project-SemEval2020-Task4/Project Demonstration (updated).pdf**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/Project%20Demonstration%20(updated).pdf)  
