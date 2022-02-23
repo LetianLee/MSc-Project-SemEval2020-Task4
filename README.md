@@ -93,13 +93,20 @@ MSc Project (Commonsense Validation and Explanation in Natural Language Processi
 
 
 ## Suggestion
-If you just want a quick look at how to solve the task, please see the implementation code:  
+If you just want a quick look at how to solve the task, please see the **Implementation Code**:  
 > [**MSc-Project-SemEval2020-Task4/MSc Project/Best Implementation/Subtask_A.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Best%20Implementation/Subtask_A.ipynb)  
 > [**MSc-Project-SemEval2020-Task4/MSc Project/Best Implementation/Subtask_B.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Best%20Implementation/Subtask_B.ipynb)
 
-If you want to know how the project conducts experiments, please see the experiment code:  
+If you want to know how the project conducts experiments, please see the **Experiment Code**:  
 > [**MSc-Project-SemEval2020-Task4/MSc Project/Experiment/Experiment_Subtask_A.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Experiment/Experiment_Subtask_A.ipynb)  
 > [**MSc-Project-SemEval2020-Task4/MSc Project/Experiment/Experiment_Subtask_B.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Experiment/Experiment_Subtask_B.ipynb)
 
-If you want to take an overview of this project, please see the project demonstration slide:  
+If you want to take an overview of the experiments results, please see the file **Experiment Workflow**:  
+(How different hyperparameters affect the accuracy.)  
+> [**MSc-Project-SemEval2020-Task4/MSc Project/Experiment/Experiment Workflow.ipynb**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/MSc%20Project/Experiment/Experiment%20Workflow.ipynb)
+
+If you want to take an overview of this project, please see the **Project Demonstration Slide**:  
 > [**MSc-Project-SemEval2020-Task4/Project Demonstration (updated).pdf**](https://github.com/LetianLee/MSc-Project-SemEval2020-Task4/blob/master/Project%20Demonstration%20(updated).pdf)  
+
+
+
